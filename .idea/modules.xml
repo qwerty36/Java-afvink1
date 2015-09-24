@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-afvink1.iml" filepath="$PROJECT_DIR$/.idea/Java-afvink1.iml" />
       <module fileurl="file://$PROJECT_DIR$/afvink1/afvink1.iml" filepath="$PROJECT_DIR$/afvink1/afvink1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/afvink2/afvink2.iml" filepath="$PROJECT_DIR$/afvink2/afvink2.iml" />
     </modules>
   </component>
 </project>
