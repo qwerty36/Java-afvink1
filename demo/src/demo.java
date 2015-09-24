@@ -6,14 +6,14 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 public class demo {
     private int leeftijd;
     String naam;
-    private static final int minLeeftijd = 16;
+    private static int minLeeftijd = 16;
 
     public void info() {
         System.out.println("Student: "+naam);
         System.out.println("Leeftijd: "+Integer.toString(leeftijd));
     }
 
-    public void setLeeftijd(int 1) {
+    public void setLeeftijd(int l) {
         if (1 < minLeeftijd) {
             System.out.println("Dat mag niet!");
         }else{
