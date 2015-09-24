@@ -3,7 +3,7 @@
  */
 public class AppStudenten {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
         demo een = new demo();
         een.setLeeftijd(17);
         een.naam = "Pepijn";
